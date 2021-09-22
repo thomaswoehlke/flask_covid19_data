@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\flask_covid19"
+		},
+		{
+			"path": "..\\LaTeX-Kurs"
+		},
+		{
+			"path": "..\\django_tutorial_2021"
+		},
+		{
+			"path": "..\\flask_simpleworklist"
+		},
+		{
+			"path": "..\\flask_covid19_jupyter"
+		},
+		{
+			"path": "..\\flask_bloodmoney"
+		},
+		{
+			"path": "..\\django_petclinic_tmp"
+		}
+	],
+	"settings": {}
+}

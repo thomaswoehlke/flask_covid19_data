@@ -13,3 +13,4 @@
 /db/*-current.sql.7z
 /db/flask_covid19.sql.7z.tmp
 /venv
+/data
