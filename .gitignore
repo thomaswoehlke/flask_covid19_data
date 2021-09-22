@@ -1,4 +1,6 @@
 /*.log
+/*.csv
+/*.tsv
 /RKI.csv
 /OWID.csv
 /WHO.csv
